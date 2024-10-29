@@ -1,2 +1,2 @@
 # My_Portifolio
-all things in my partifolio
+my personal portifolio website
